@@ -1,0 +1,27 @@
+html {
+  background: linear-gradient(135deg, #e8c3fd, #86c5fc);
+  color: white;
+}
+
+a {
+  color: #eaeced;
+}
+
+hr {
+  margin-top: 15%;
+  margin-bottom: 5%;
+}
+footer {
+  margin-left: 40%;
+  margin-right: 40%;
+  text-align: center;
+  border-color: light-gray;
+  border-style: dashed;
+  border-width: 5px;
+  border-radius: 5%;
+  font-size: 1.5em;
+}
+
+span {
+  text-align: center;
+}
